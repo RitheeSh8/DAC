@@ -8,10 +8,10 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 ## APPARATUS REQUIRED
 
 | S. No | Item              | Specification   | Quantity |
-|-------|------------------|-----------------|----------|
-| 1     | Microprocessor kit | 8086            | 1        |
-| 2     | Power Supply      | +5 V DC, +12 V DC | 1      |
-| 3     | DAC Interface board | -              | 1        |
+|-------|------------------ |-----------------|----------|
+| 1     | Microprocessor kit| 8086            | 1        |
+| 2     | Power Supply      | +5 V DC,+12 V DC| 1        |
+| 3     |DAC Interface board| -               | 1        |
 
 ---
 
@@ -86,11 +86,13 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 ---
 
 ## Model Graph
-![IMG-20250925-WA0037 1](https://github.com/user-attachments/assets/613ed7ff-b988-44c6-9241-8c00e8b5f845)
 
-![IMG-20250925-WA0036 1](https://github.com/user-attachments/assets/8bf5ca33-db44-400d-bac2-ba6c0bdfce23)
+![IMG-20251024-WA0050 1](https://github.com/user-attachments/assets/a4443eb1-a639-4b45-bc57-6e1aca44c5da)
+
+![IMG-20251024-WA0049 1](https://github.com/user-attachments/assets/b3c98b83-ff28-4bb2-85f2-def2886da613)
 
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
+
 ![IMG-20250921-WA0063 1](https://github.com/user-attachments/assets/e9bf1e08-a383-4f8b-b327-4148b721007b)
 
 ![IMG-20250921-WA0064 1](https://github.com/user-attachments/assets/f057f557-395d-40d2-ab41-50dd1f390f56)
